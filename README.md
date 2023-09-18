@@ -12,7 +12,6 @@ This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](h
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -57,7 +56,4 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 
 - [React Documentation](https://reactjs.org/)
 
-## Author
 
-- Frontend Mentor - [@gabrieloporto](https://www.frontendmentor.io/profile/gabrieloporto)
-- GitHub - [@gabrieloporto](https://github.com/gabrieloporto)
